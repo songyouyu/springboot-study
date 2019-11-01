@@ -3,7 +3,7 @@ package com.imooc.autoconfigure.annotation;
 import java.lang.annotation.*;
 
 /**
- * 层次性
+ * @Component 层次性
  *
  * @author youyu.song
  * @date 2019/6/8

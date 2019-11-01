@@ -10,10 +10,11 @@ import org.springframework.stereotype.Component;
  * @date 2019/6/8
  */
 //@FirstLevelRepository(value = "myFirstLevelRepository")
-//@Component(value = "myFirstLevelRepository")
 @SecondLevelRepository(value = "myFirstLevelRepository")
+//@Component(value = "myFirstLevelRepository")
 public class MyFirstLevelRepository {
 
 
 
 }
+

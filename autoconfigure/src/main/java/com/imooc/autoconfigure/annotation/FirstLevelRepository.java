@@ -5,7 +5,7 @@ import org.springframework.stereotype.Repository;
 import java.lang.annotation.*;
 
 /**
- * "派生"性
+ *  @Component "派生"性
  *
  * @author youyu.song
  * @date 2019/6/8

@@ -8,9 +8,9 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <groupId>com.imooc</groupId>
-    <artifactId>autoconfigure</artifactId>
+    <artifactId>spring-application</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>autoconfigure</name>
+    <name>spring-application</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

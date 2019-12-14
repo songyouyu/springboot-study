@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @author youyu.song
  * @date 2019/11/4 18:54
  */
-@SpringBootApplication(scanBasePackages = "com.imooc.web.controller")
+@SpringBootApplication(scanBasePackages = {"com.imooc.web.controller", "com.imooc.web.config"})
 public class SpringBootRestBootstrap {
 
     public static void main(String[] args) {
